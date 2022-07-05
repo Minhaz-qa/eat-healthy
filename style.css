@@ -52,9 +52,6 @@ p {
 .align-center {
     width: 50%;
     margin: auto;
-    /* background-color: brown;
-        border: 2px solid yellow;
-        padding: 10px; */
     text-align: center;
 
 }
@@ -78,4 +75,19 @@ p {
     box-shadow: 8px 8px 16px gray;
     padding: 30px;
     border-radius: 15px;
+}
+
+#flex-2 {
+    display: flex;
+    margin: auto;
+    box-shadow: 8px 8px 16px gray;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 15px;
+    margin-top: 7%;
+}
+
+.socail {
+    margin: auto;
+
 }
